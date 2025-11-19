@@ -1,1 +1,1 @@
- E- COMMERCE_TELECOM_SALES_ANALYTICS This project focuses on analysis telecom product sales from an E-commerce platform.The aim is too understand sales performance and customer patters, product demands,and  revenue trends using data analytics techniques
+This project focuses on analysis telecom product sales from an E-commerce platform.The aim is too understand sales performance and customer patters, product demands,and  revenue trends using data analytics techniques
